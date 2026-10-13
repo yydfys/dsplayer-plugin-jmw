@@ -2,44 +2,8 @@
   "logo": "icons/market.png",
   "name": "DsPlayer JmwPower插件市场",
   "desc": "JmwPower维护的插件分发索引",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "plugins": [
-    {
-      "id": "duoju-lite-green",
-      "name": "多聚短剧·绿色版",
-      "author": "JmwPower",
-      "desc": "多聚短剧精简版。",
-      "version": "1.4.59",
-      "type": "import",
-      "size": 6208450,
-      "url": "packages/duoju-lite-green.zip",
-      "icon": "icons/duoju.png",
-      "tags": [
-        "网络",
-        "服务"
-      ],
-      "changelog": "包结构调整：二进制置于包根目录，去除 bin/ds 目录。",
-      "md5": "6726a6eb72f50cf3fbad90425558466c",
-      "category": "env"
-    },
-    {
-      "id": "djduanju",
-      "name": "多聚短剧配套源",
-      "author": "JmwPower",
-      "desc": "多聚短剧配套源。",
-      "version": "0.0.2",
-      "type": "source",
-      "category": "app",
-      "url": "packages/djduanju.zip",
-      "size": 5343,
-      "md5": "1644f9c8b104d263da1471d5a3733926",
-      "changelog": "绿色版。",
-      "tags": [
-        "本地源",
-        "应用"
-      ],
-      "icon": "icons/demo-sources.png"
-    },
     {
       "id": "musick-api",
       "name": "MusicK音乐",
@@ -79,42 +43,6 @@
         "应用"
       ],
       "icon": "icons/musick.png"
-    },
-    {
-      "id": "duoju-ting",
-      "name": "多聚听书",
-      "author": "JmwPower",
-      "desc": "多聚听书后端服务",
-      "version": "1.9.2",
-      "type": "import",
-      "size": 3347221,
-      "url": "packages/duoju-ting.zip",
-      "icon": "icons/duojuting.png",
-      "tags": [
-        "网络",
-        "服务"
-      ],
-      "changelog": "搜索排序优化。",
-      "md5": "86536e101f535fa231d4a301bc35a33c",
-      "category": "env"
-    },
-    {
-      "id": "duoju-ting-source",
-      "name": "多聚听书配套源",
-      "author": "JmwPower",
-      "desc": "多聚听书 ds 规则",
-      "version": "1.9.1",
-      "type": "source",
-      "size": 3767,
-      "url": "packages/duoju-ting-source.zip",
-      "icon": "icons/duojuting.png",
-      "tags": [
-        "规则",
-        "听书"
-      ],
-      "changelog": "修复 searchUrl 为空导致的搜索无结果。",
-      "md5": "450b0d5f3b9c4f4b92726adab55adcbd",
-      "category": "source"
     }
   ]
 }
