@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: JMWpower/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin-jmw (main)
+时间: 2026-10-19 00:24:25 CST
+上游 head: 7c726426a4058be7a3636b1c59b2a73ae3432271
+被删文件数: 1
+---
+packages/my-home-1.0.9.zip
