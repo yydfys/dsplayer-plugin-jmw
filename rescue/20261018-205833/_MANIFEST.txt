@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: JMWpower/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin-jmw (main)
+时间: 2026-10-18 20:58:35 CST
+上游 head: a11bb79ff1a8826c16e41441f9720b5c7fcc6a6d
+被删文件数: 1
+---
+packages/lanmei-lite-1.0.15.zip
