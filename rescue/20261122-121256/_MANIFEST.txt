@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: JMWpower/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin-jmw (main)
+时间: 2026-11-22 12:13:09 CST
+上游 head: 023ad6693902032ddffbf9bfac6c32e77fe954ff
+被删文件数: 1
+---
+packages/legado-shelf-library-1.0.0.zip
